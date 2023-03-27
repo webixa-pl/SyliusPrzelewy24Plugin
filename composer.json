@@ -1,5 +1,5 @@
 {
-    "name": "bitbag/przelewy24-plugin",
+    "name": "webixa-pl/syliusprzelewy24plugin",
     "keywords": ["sylius", "sylius-plugin"],
     "type": "sylius-plugin",
     "description": "Przelewy24 payment plugin for Sylius applications.",
